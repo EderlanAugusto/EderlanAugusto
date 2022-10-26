@@ -1,6 +1,6 @@
 ## Ederlan Augusto de Souza
 
-Developer Full Stack
+Senior System Analyst/Developer Full Stack
 <div> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ederlan%20Augusto-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ederlan-Augusto/)](https://www.linkedin.com/in/ederlan-augusto-b102571a0/) 
@@ -8,7 +8,7 @@ Developer Full Stack
  
 </div>
 
-I am passionate about technology, I started in the area in 1992, and I can say that the satisfaction of overcoming challenges and impacting people's lives in this process is unique.
+A little about myself, I started in the area in 1992 as a typist and today I am a Senior System Analyst and Full Stack Developer, I have worked on several projects, some in the private sector, but most in the government sector. I am pleased to know that all my efforts contributed in some way to the good of society in my state, whether creating tools to combat tax evasion, control public spending and improve the inspection processes of the public machine.
 
 <hr> 
 
